@@ -11,14 +11,13 @@
             "id": "bcaa48c520a6e119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Dokumentation/Klasse - GameOfLifeApp.md",
-                "mode": "preview",
-                "source": false
+                "file": "Unbenannt.base",
+                "viewName": "Tabelle"
               },
-              "icon": "lucide-file",
-              "title": "Klasse - GameOfLifeApp"
+              "icon": "lucide-table",
+              "title": "Unbenannt"
             }
           }
         ]
@@ -185,8 +184,19 @@
   },
   "active": "bcaa48c520a6e119",
   "lastOpenFiles": [
-    "Dokumentation/Methode - GameOfLifeApp._handle_events.md",
+    "Dokumentation/Parameter - Slider.__init__.max_val.md",
+    "Unbenannt.base",
+    "Dokumentation/Parameter - Slider.__init__.min_val.md",
+    "Dokumentation/Parameter - Slider.__init__.on_change.md",
+    "Dokumentation/Parameter - Slider.__init__.rect.md",
+    "Dokumentation/Parameter - Slider.__init__.value.md",
+    "Dokumentation/Parameter - Slider._apply_x.x.md",
+    "Dokumentation/Parameter - Slider.draw.font.md",
+    "Dokumentation/Parameter - Slider.draw.surface.md",
+    "Dokumentation/Parameter - Slider.handle_mousedown.pos.md",
+    "Dokumentation/Parameter - Slider.handle_mousemove.pos.md",
     "Dokumentation/Klasse - GameOfLifeApp.md",
+    "Dokumentation/Methode - GameOfLifeApp._handle_events.md",
     "Dokumentation/Methode - GameOfLifeApp.run.md",
     "Dokumentation/Methode - GameOfLifeApp.__init__.md",
     "Dokumentation/Methode - GameOfLifeApp._handle_resize.md",
@@ -200,17 +210,6 @@
     "Dokumentation/Parameter - GameOfLifeApp._on_cols_change.new_cols.md",
     "Dokumentation/Methode - GameOfLifeApp._toggle_running.md",
     "Dokumentation/Link Library.md",
-    "Dokumentation/Modul - typing.md",
-    "Dokumentation/Modul - dataclasses.md",
-    "Dokumentation/Modul - __future__.md",
-    "Dokumentation/Klasse - GameOfLifeModel.md",
-    "Dokumentation/Klasse - Button.md",
-    "Dokumentation/Datei - pygame_game_of_life.py.md",
-    "Dokumentation/Datei - gol model.py.md",
-    "Dokumentation/Datei - gol config.py.md",
-    "Dokumentation/Datei - gol app.py.md",
-    "Dokumentation/Datei - gol __init__.py.md",
-    "Dokumentation/Methode - Slider.handle_mouseup.md",
-    "Unbenannt.base"
+    "Dokumentation/Modul - typing.md"
   ]
 }
